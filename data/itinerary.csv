@@ -1,0 +1,46 @@
+Day,Date,Start Time,End Time,Activity / Place,Area,Type,Estimated Cost (HKD per person),Priority,Notes,From,To,Travel Mode
+Day 1,,5:50,8:00,Arrive in Hong Kong,Airport,Flight,0,Must,"Immigration and luggage collection
+Buy Octopus card",,,
+Day 1,,8:00,9:00,Airport to hotel luggage drop,Airport / Tsuen Wan,Logistics,Transport extra,Must,"Suggested route from the airport to the hotel area. Check local transport options and the hotel shuttle timetable if needed. Breakfast is planned next in Central; leave enough time for travel.",Hong Kong International Airport,Tsuen Wan,transit
+Day 1,,9:00,10:00,LN COFFEE,Central / Sai Ying Pun,Food,$$ - Moderate,Must,Important French toast breakfast; confirm the exact branch and opening hours.,,,
+Day 1,,10:00,12:30,Mid-Levels Escalator and Central walking route,Central,Sightseeing,Free,Must,Explore Hollywood Road and Man Mo Temple. Walking route; adjust stops to available time.,,,
+Day 1,,12:30,13:45,LockCha,Tai Kwun / Central,Food,$$ - $$$,High,Vegetarian tea and dim sum; confirm vegan dishes and branch location.,,,
+Day 1,,13:45,15:00,PMQ and Tai Kwun,Central,Culture,Free,High,Skip one if tired.,,,
+Day 1,,15:00,16:00,Travel to Tsim Sha Tsui,Central → Tsim Sha Tsui,Transport,Transport extra,Must,Use MTR or taxi.,"Central, Hong Kong","Tsim Sha Tsui, Hong Kong",transit
+Day 1,,16:00,18:30,Avenue of Stars and TST Promenade,Tsim Sha Tsui,Sightseeing,Free,Must,Harbour views and skyline photos.,,,
+Day 1,,18:30,19:30,Dinner,Tsim Sha Tsui,Food,$$ - Moderate,High,Keep flexible depending on hunger; check vegan options.,,,
+Day 1,,20:00,20:15,Symphony of Lights,Tsim Sha Tsui Waterfront,Show,Free,Must,Arrive early for a good viewing spot; check the current show schedule.,,,
+Day 1,,20:30,22:00,Temple Street Night Market,Jordan,Market,Free entry,Must,Shopping and street atmosphere; food options may not all be vegan.,,,
+Day 2,,8:30,9:30,Breakfast near hotel,Tsuen Wan,Food,$ - Cheap,Optional,Choose a vegan-friendly option.,,,
+Day 2,,9:30,10:30,Travel to Tung Chung,Tsuen Wan → Tung Chung,Transport,Transport extra,Must,Allow time for the MTR.,Tsuen Wan,Tung Chung Station,transit
+Day 2,,10:30,15:00,Ngong Ping 360 cable car,Tung Chung / Ngong Ping,Sightseeing,295 standard return,Must,Indicative adult fare; verify the official ticket price before purchase. The cable car itself is a separate experience; check operating times.,Ngong Ping 360 Tung Chung Terminal,Ngong Ping 360 Ngong Ping Terminal,transit
+Day 2,,11:00,15:00,Ngong Ping Village and Tian Tan Big Buddha,Ngong Ping,Culture,Free for main outdoor areas,Must,Explore the village and climb the Buddha steps. Timing overlaps with the cable-car visit; treat these as activities within the same visit.,,,
+Day 2,,12:30,13:30,Po Lin Monastery vegetarian lunch,Ngong Ping,Food,$$ - Moderate,High,Check service hours and vegan ingredients.,,,
+Day 2,,15:00,16:30,Return to Tung Chung and travel to West Kowloon,Ngong Ping → West Kowloon,Transport,Transport extra,Must,"Return by cable car to Tung Chung, then continue to West Kowloon; allow travel time.",Ngong Ping 360 Ngong Ping Terminal,"WestK Art Park, West Kowloon",transit
+Day 2,,17:00,18:30,Yau Veggie Truck,WestK Art Park,Food,$$ - Moderate,Must,Important vegan food stop; check opening hours and current location before going.,,,
+Day 2,,18:30,19:30,WestK waterfront and Art Park,West Kowloon,Walk,Free,Optional,Relax by the harbour.,,,
+Day 2,,19:30,21:00,Return to the hotel area,West Kowloon → Tsuen Wan,Transport,Transport extra,Must,Allow travel time and rest after the Lantau day.,"WestK Art Park, West Kowloon",Tsuen Wan,transit
+Day 3,,9:00,9:30,Travel to Sheung Wan,Tsuen Wan → Sheung Wan,Transport,Transport extra,Must,Start the tram route here; allow enough time to reach the tram stop.,Tsuen Wan,Sheung Wan Tram Terminus,transit
+Day 3,,9:30,10:00,Hong Kong Ding Ding Tram to Wan Chai,Sheung Wan → Wan Chai,Transport / Experience,About 3.30 per ride,High,Ride eastbound and enjoy the streetscape. Confirm the best boarding stop and allow for traffic.,Sheung Wan Tram Terminus,Wan Chai,transit
+Day 3,,10:00,11:00,Blue House and Wan Chai heritage walk,Wan Chai,Culture,Free,High,Historic buildings and local streets.,,,
+Day 3,,11:00,12:00,Travel to Tsim Sha Tsui,Wan Chai → Tsim Sha Tsui,Transport,Transport extra,Must,Allow time before lunch.,Wan Chai,"Veggie Kingdom, Tsim Sha Tsui",transit
+Day 3,,12:00,13:30,Veggie Kingdom,Tsim Sha Tsui,Food,$$ - $$$,Must,Very important vegan dim sum; confirm booking and lunch hours.,,,
+Day 3,,13:30,15:00,Travel to Victoria Peak and queue,Tsim Sha Tsui → Peak Tram Lower Terminus,Transport,Transport extra,Must,Peak Tram queues can be long. Allow time to cross the harbour and reach the lower terminus.,"Veggie Kingdom, Tsim Sha Tsui","Peak Tram Lower Terminus, Central",transit
+Day 3,,15:00,18:30,Peak Tram and Sky Terrace 428,Victoria Peak,Ticketed attraction,About 146-155,Must,Indicative combo price; check official ticket options. Timing overlaps with the Circle Walk; plan these as one Peak visit.,"Peak Tram Lower Terminus, Central","Sky Terrace 428, Victoria Peak",transit
+Day 3,,16:00,19:00,Victoria Peak Circle Walk,Victoria Peak,Walk,Free,Must,Allow time for views and daylight; adjust timing to sunset. This overlaps with the Peak Tram/Sky Terrace time block.,,,
+Day 3,,19:30,20:00,Travel down to Central,Victoria Peak → Central,Transport,Transport extra,Must,Allow extra time; choose the return route based on queues and operating hours.,Victoria Peak,"Central, Hong Kong",transit
+Day 3,,20:00,22:00,Central night lights and walk,Central,Event,Free,Must,Check official event locations and dates before visiting.,,,
+Day 3,,20:30,21:30,Local vegan tea stop,Central,Food,$$ - Moderate,High,Fit this around the evening route and confirm the branch location.,,,
+Day 4,,9:30,10:30,Relaxed breakfast,Near hotel,Food,$ - Cheap,Optional,Keep this morning flexible; choose a vegan-friendly option.,,,
+Day 4,,11:30,12:30,Yudei,Sham Shui Po,Food,$$ - Moderate,High,Japanese and local-inspired vegan cafe; check opening time and exact location.,,,
+Day 4,,13:00,14:30,YEARS,Sham Shui Po,Food,$$ - $$$,High,More expensive plant-based meal; check opening hours and booking requirements.,,,
+Day 4,,14:30,16:30,Sham Shui Po and Mong Kok markets,Sham Shui Po → Mong Kok,Shopping / Walk,Free entry,High,Explore local streets and market areas. Use transit or walking directions between the areas as needed.,Sham Shui Po,Mong Kok,transit
+Day 4,,16:30,17:00,NUTTEA,Kowloon / TST branch,Food,$ - $$,High,Nut-based bubble tea; choose a convenient branch and confirm the exact location.,,,
+Day 4,,17:00,18:00,Flexible dessert stop / Snack Baby,Central or nearby branch,Food,$ - $$,Optional,Check location and vegan gelato options before travelling to a branch.,,,
+Day 4,,18:00,20:00,Free evening and dinner,Kowloon,Food / Leisure,Variable,Optional,Use for any missed food stop or shopping; check vegan options.,,,
+Day 5,,7:30,8:30,Tin Tin Vegetarian,Tsuen Wan,Food,$ - Cheap,Must,Last-day breakfast; confirm the nearby branch opening time and vegan ingredients.,,,
+Day 5,,8:30,10:30,Return to hotel and pack,Tsuen Wan,Logistics,0,Must,Collect luggage and prepare for checkout.,"Tsuen Wan",Tsuen Wan,transit
+Day 5,,11:00,11:15,Hotel checkout and depart,Tsuen Wan,Logistics,0,Must,Hotel checkout is typically around 11 AM; confirm with the hotel.,,,
+Day 5,,12:00,12:30,Target airport arrival,Tsuen Wan → Hong Kong Airport,Flight logistics,Transport extra,Must,Aim to arrive with a comfortable buffer before departure; verify the best route and current travel times.,Tsuen Wan,Hong Kong International Airport,transit
+Day 5,,16:05,,Departure day flight,Airport,Flight,Already booked,Must,Keep travel details private and confirm the timing before leaving the hotel.,,,
+
